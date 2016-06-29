@@ -16,7 +16,7 @@ ol {
   width: 800px;
   text-align: left;
   line-height: 30px; }
-  .contain-wrap li {
+  .contain-wrap ul li {
     border-bottom: 1px dashed #eee; }
   .contain-wrap a {
     font-size: 16px;
