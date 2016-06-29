@@ -1,0 +1,37 @@
+header{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  height: 60px;
+  line-height: 60px;
+}
+
+ol{
+  list-style: decimal;
+
+  li{
+    list-style: decimal;
+  }
+}
+
+.contain-wrap{
+  margin:20px auto;
+  width:800px;
+  text-align: left;
+  line-height: 30px;
+
+  li{
+    border-bottom:1px dashed #eee;
+  }
+
+  a{
+    font-size:16px;
+    color: #333;
+    
+    &:hover{
+      color: #00a0ff;
+      text-decoration: underline;
+    }
+  }
+}
